@@ -2,8 +2,8 @@
 Changelog for package pal_hardware_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-forthcoming
------------
+0.0.6 (2016-09-21)
+------------------
 * first public release
 * Contributor: Jordi Pages
 
